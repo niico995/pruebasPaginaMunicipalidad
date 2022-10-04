@@ -1,0 +1,15 @@
+:root {
+
+    /* Colores */
+     --principal: #F5A62C;
+     --secundario: #E0FB92;
+     --terciario: #B57CB2;
+
+     /* Fuentes */
+     --fuenteNavegacion:font-family: 'Saira Condensed', sans-serif;
+     --fuenteHeader: 'Satisfy', cursive;
+     --fuenteTexto: 'Roboto', sans-serif;
+
+}
+
+
